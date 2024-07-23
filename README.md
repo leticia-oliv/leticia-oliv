@@ -1,6 +1,6 @@
 ## Olá pessoal! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img align='right' src='https://i.pinimg.com/originals/5e/dd/61/5edd617e8457fdda90c34fd97cde4ab1.gif' width='200"'>
+<img align="right" src="https://i.pinimg.com/originals/5e/dd/61/5edd617e8457fdda90c34fd97cde4ab1.gif" width="150px" alt="Avatar">
 
 ### Sobre mim
 - 🌟 Apaixonada por tecnologia, música e desenhos animados.
