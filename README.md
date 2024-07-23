@@ -12,10 +12,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliv&repo=EDA_Olist_PowerBI_ADAtech&title_color=42b883&icon_color=42b883&text_color=ffffff&bg_color=2c3e50)](https://github.com/leticia-oliv/EDA_Olist_PowerBI_ADAtech) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticia-oliv&repo=Airbnb_Paris_EDA_Projeto_ADATech&title_color=42b883&icon_color=42b883&text_color=ffffff&bg_color=2c3e50)](https://github.com/leticia-oliv/Airbnb_Paris_EDA_Projeto_ADATech)
 
-![Estatísticas do GitHub de Letícia](https://github-readme-stats.vercel.app/api?username=leticia-oliv&show_icons=true&theme=vue-dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-oliv&layout=compact&theme=vue-dark)
-
 ## 🐍 Ferramentas e Linguagens
 
 ### Uso Diário
@@ -48,6 +44,10 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&color=2e8b57" alt="AWS" />
 </p>
+
+![Estatísticas do GitHub de Letícia](https://github-readme-stats.vercel.app/api?username=leticia-oliv&show_icons=true&theme=vue-dark)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-oliv&layout=compact&theme=vue-dark)
 
 <!--
 **leticia-oliv/leticia-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
