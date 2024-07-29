@@ -31,7 +31,6 @@
 
 ### Conhecimento Básico
 <p>
-  <img src="https://img.shields.io/badge/Databricks-FF5D00?style=flat-square&logo=databricks&logoColor=white&color=2e8b57" alt="Databricks" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&color=2e8b57" alt="PHP" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&color=2e8b57" alt="Tableau" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&color=2e8b57" alt="R" />
@@ -43,6 +42,7 @@
 ### Estou Aprendendo
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white&color=2e8b57" alt="AWS" />
+  <img src="https://img.shields.io/badge/Databricks-FF5D00?style=flat-square&logo=databricks&logoColor=white&color=2e8b57" alt="Databricks" />
 </p>
 
 ![Estatísticas do GitHub de Letícia](https://github-readme-stats.vercel.app/api?username=leticia-oliv&show_icons=true&theme=vue-dark) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-oliv&layout=compact&theme=vue-dark)
